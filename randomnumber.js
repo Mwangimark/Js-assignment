@@ -8,4 +8,5 @@ if(Number(i)== a){
      console.log("The number was :"+i)
 }
 else
-console.log("Not matched, the random number was :"+a+" you entered :"+i)
+console.log("Not matched")
+console.log("the random number was :"+a+" you entered :"+i)
