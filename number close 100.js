@@ -2,7 +2,7 @@
 function closestTo100(num1, num2) {
     //Calculate the absolute difference between each number and 100
     let diff1 =Math.abs(99 - 100);
-    let diff2 = Math.abs(200 - 100);
+    let diff2 = Math.abs(190 - 100);
   
     // Compare the differences to find the closest value to 100
     if (diff1 < diff2) {

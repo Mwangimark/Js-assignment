@@ -9,16 +9,16 @@ const car = ["Mark x","Volvo","country bus","metro","royal saloon","wish","field
    }
    
      //====while loop
-   // let i = 0;
-   // while(i<car.length){
-   //     console.log("car :"+car[i])
-   //     i++
-   // }
+   let i = 0;
+   while(i<car.length){
+       console.log("car :"+car[i])
+       i++
+   }
    
    
    //==========do while
-   // let i=0;
-   // do{
-   //      console.log(car[i])
-   //      i++
-   // }while(i<car.length)
+
+   do{
+        console.log(car[i])
+        i++
+   }while(i<car.length)

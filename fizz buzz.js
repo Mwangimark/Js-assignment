@@ -1,5 +1,5 @@
 //Quiz 4
-       //FizzBuzz
+       //FizzBuzz Buzz
 
        for(num=1;num<=100;num++){
         if(num%5==0 && num%3==0){
